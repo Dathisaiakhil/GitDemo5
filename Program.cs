@@ -1,4 +1,4 @@
-﻿amusing System;
+﻿using System;
 
 namespace GitDemo5
 {
@@ -7,6 +7,7 @@ namespace GitDemo5
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello It's me");
         }
     }
 }
